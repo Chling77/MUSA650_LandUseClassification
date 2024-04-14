@@ -9,8 +9,11 @@ The goal was to effectively classify images into categories such as urban areas,
 
 ### Models Used
 Support Vector Machine (SVM)
+
 Random Forest
+
 Deep Learning Models including basic and advanced CNN architectures.
+
 VGG16, a pre-trained model, demonstrating the efficacy of transfer learning.
 
 ### Data Source
