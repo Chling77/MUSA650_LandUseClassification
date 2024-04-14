@@ -22,7 +22,9 @@ https://github.com/phelber/eurosat
 
 ### Implementation and Results
 Data Preprocessing: Standardization and augmentation techniques were employed to enhance model training.
+
 Model Training and Evaluation: Models were trained and tuned for optimal performance and evaluated based on metrics like accuracy, precision, recall, and F1-score. The VGG16 model outperformed others, showcasing the advantages of transfer learning.
+
 Error Analysis: Misclassifications were specifically analyzed to understand model weaknesses.
 
 ### Conclusion
